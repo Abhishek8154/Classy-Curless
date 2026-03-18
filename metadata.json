@@ -1,0 +1,5 @@
+{
+  "name": "Classy Curlss Salon & Makeup Studio",
+  "description": "Premium beauty salon and makeup studio in Andheri East, Mumbai offering luxury hair, beauty, and bridal makeup services.",
+  "requestFramePermissions": ["geolocation"]
+}
